@@ -7,4 +7,4 @@ Inspired by [Malph](http://macgui.net/downloads/?file_id=16278) by [Nitin Ganatr
 ## Choose a License
 
 * [SMPPL for Freeware](SMPPL-Freeware.md): You are allowed to use the software if you send the author a postcard.
-* [SMPPL for Open Source](SMPPL-OpenSource.md): you are allowed to use and redistribute the code if you send the author a postcard.
+* [SMPPL for Open Source](SMPPL-OpenSource.md): you are allowed to redistribute the code if you send the author a postcard.
