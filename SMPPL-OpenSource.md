@@ -1,6 +1,6 @@
 # Send Me a Postcard Public License for Open Source
 
-Version 0.2, Dec 2022
+Version 0.2, Aug 2023
 
 ## TERMS AND CONDITIONS FOR USE, DISTRIBUTION AND MODIFICATION
 
