@@ -7,4 +7,4 @@ Version 0.2, Dec 2022
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the original author and project.
-2. You must send the author a postcard, if you changed his code and posted it online.
+2. You must send the author a postcard, if you changed they work and posted it online.
